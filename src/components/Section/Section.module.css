@@ -1,0 +1,22 @@
+.Section {
+  width: 700px;
+  min-height: 250px;
+  margin: auto;
+  text-align: center;
+  background-color: #61dafb;
+  border-radius: 10%;
+}
+
+.Section:first-child {
+  margin-bottom: 15px;
+}
+
+.Title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: 700;
+  font-size: 36px;
+  color: blue;
+}
